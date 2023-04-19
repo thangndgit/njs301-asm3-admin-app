@@ -1,6 +1,6 @@
 # njs301-asm3-admin-app
 
-## Website:
+## Site:
 
 - [Client app](https://splashy-thirsty-hickory.glitch.me/)
 - [Admin app](https://mahogany-peppered-verbena.glitch.me/)
